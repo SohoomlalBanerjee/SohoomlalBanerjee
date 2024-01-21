@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100vw" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474zuxgmfrlo9occo52rbnz0ju4griyod9ypfb59yr&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="70vw" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474zuxgmfrlo9occo52rbnz0ju4griyod9ypfb59yr&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <h1 align="center">Hi 👋, I'm Sohoomlal Banerjee</h1>
 <h3 align="center">A passionate full-stack developer from India.</h3>
