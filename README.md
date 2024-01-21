@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media0.giphy.com/media/b29IZK1dP4aWs/giphy.gif?cid=ecf05e47peelln6u28uvh7ek36rv58yvbly10gs647pyo87e&ep=v1_gifs_search&rid=giphy.gif&ct=g)]
+[![MasterHead]([https://media0.giphy.com/media/b29IZK1dP4aWs/giphy.gif?cid=ecf05e47peelln6u28uvh7ek36rv58yvbly10gs647pyo87e&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media0.giphy.com/media/U8wCBLhkjNknS/giphy.gif?cid=ecf05e47peelln6u28uvh7ek36rv58yvbly10gs647pyo87e&ep=v1_gifs_search&rid=giphy.gif&ct=g))]
 
 
 <h1 align="center">Hi 👋, I'm Sohoomlal Banerjee</h1>
