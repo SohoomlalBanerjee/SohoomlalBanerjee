@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Sohoomlal Banerjee</h1>
 <h3 align="center">A passionate full-stack developer from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/U8wCBLhkjNknS/giphy.gif?cid=ecf05e47peelln6u28uvh7ek36rv58yvbly10gs647pyo87e&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/tecnicageracao-4rZA5D22301iMgrUNd">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohoomlalbanerjee&label=Profile%20views&color=0e75b6&style=flat" alt="sohoomlalbanerjee" /> </p>
 
