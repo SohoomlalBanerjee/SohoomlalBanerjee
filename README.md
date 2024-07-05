@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on **full-stack projects.**
 
-- 🌱 I’m currently learning **Next.js, TypeScript and SQL.**
-
 - 👯 I’m looking to collaborate on **projects.**
 
 - 💬 Ask me about **Web development, Problem Solving**
